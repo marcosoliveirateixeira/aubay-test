@@ -1,0 +1,8 @@
+bitbucket-pipelines.yml
+.terraform
+*.tfstate
+*.backup
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate.backup
+*.json
